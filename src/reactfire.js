@@ -1,4 +1,4 @@
-var ReactFireMixin = {
+module.exports = ReactFireMixin = {
   /********************/
   /*  MIXIN LIFETIME  */
   /********************/
